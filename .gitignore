@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+test-results/
+.sites-runtime/
+.sites-checkout/
+site-deployment.tar.gz
+desktop/web/

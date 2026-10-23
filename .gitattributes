@@ -1,0 +1,7 @@
+public/models/** -text
+public/vendor/** -text
+THIRD_PARTY_LICENSES/** -text
+public/licenses/** -text
+dist/models/** -text
+dist/vendor/** -text
+dist/licenses/** -text
